@@ -62,7 +62,7 @@ Staff Scheduler ML to zaawansowany system wykorzystujący machine learning do pr
 1. **Klonowanie repozytorium**
 
    ```bash
-   git clone https://github.com/UFEQ/staff_scheduler_ml.git
+   git clone https://github.com/UFEQ1337/staff_scheduler_ml.git
    cd staff_scheduler_ml
    ```
 
